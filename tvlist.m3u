@@ -197,7 +197,35 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="D18" tvg-name="CGTN العربية" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际",CGTN العربية
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",CGTN (576p)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 English (1080p)
+https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7xmaoL0.png",Insight TV (1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Culture" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro-globe-network-id.png",Metro Globe Network (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/XJGki3v.png",RT Documentary (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/tyXIHlj.png",RT News (1080p) [Geo-blocked]
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",TRT World (720p) [Not 24/7]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Ns3WrOQ.png",TVM Internacional (480p) [Not 24/7]
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/lPyJhBN.png",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",World Poker Tour (1080p) [Not 24/7]
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #地方特色/24个频道
 #EXTINF:-1 tvg-id="E01" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/chapd.png" group-title="地方",茶频道
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
