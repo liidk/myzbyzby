@@ -26,8 +26,6 @@ http://vss.cbnmtv.com/live/yt_cctv12_h_1.m3u8?channelid=yt_cctv12_h
 http://vss.cbnmtv.com/live/yt_cctv14_h_1.m3u8?channelid=yt_cctv14_h
 
 
-
-
 #卫视高清/28个频道
 #EXTINF:-1 tvg-id="B01" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="卫视",北京卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
