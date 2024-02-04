@@ -1,28 +1,7 @@
+#EXTM3U x-tvg-url="https://raw.fgit.cf/Meroser/IPTV/main/tvxml.xml,https://raw.fgit.cf/Meroser/EPG-test/main/tvxml-test.xml.gz"
 #央视高清/20个频道
-#EXTINF:-1 ,CCTV1HD
-http://vss.cbnmtv.com/live/yt_cctv1_h_1.m3u8?channelid=yt_cctv1_h
-#EXTINF:-1 ,CCTV2HD
-http://vss.cbnmtv.com/live/yt_cctv2_h_1.m3u8?channelid=yt_cctv2_h
-#EXTINF:-1 ,CCTV3HD
-http://vss.cbnmtv.com/live/yt_cctv3_h_1.m3u8?channelid=yt_cctv3_h
-#EXTINF:-1 ,CCTV4HD
-http://vss.cbnmtv.com/live/yt_cctv4zhongwenguoji_h_1.m3u8?channelid=yt_cctv4zhongwenguoji_h
-#EXTINF:-1 ,CCTV5HD
-http://vss.cbnmtv.com/live/ty_cctv5_h_1.m3u8?channelid=ty_cctv5_h_1
-#EXTINF:-1 ,CCTV6HD
-http://vss.cbnmtv.com/live/yt_cctv6_h_1.m3u8?channelid=yt_cctv6_h
-#EXTINF:-1 ,CCTV7HD
-http://vss.cbnmtv.com/live/yt_cctv7_h_1.m3u8?channelid=yt_cctv7_h
-#EXTINF:-1 ,CCTV8HD
-http://vss.cbnmtv.com/live/ty_cctv8_h_1.m3u8?channelid=yt_cctv8_h
-#EXTINF:-1 ,CCTV9HD
-http://vss.cbnmtv.com/live/yt_cctv9_h_1.m3u8?channelid=yt_cctv9_h
-#EXTINF:-1 ,CCTV10HD
-http://vss.cbnmtv.com/live/yt_cctv10_h_1.m3u8?channelid=yt_cctv10_h
-#EXTINF:-1 ,CCTV12HD
-http://vss.cbnmtv.com/live/yt_cctv12_h_1.m3u8?channelid=yt_cctv12_h
-#EXTINF:-1 ,CCTV14HD
-http://vss.cbnmtv.com/live/yt_cctv14_h_1.m3u8?channelid=yt_cctv14_h
+
+
 
 
 #卫视高清/28个频道
